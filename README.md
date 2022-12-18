@@ -1,3 +1,5 @@
+# :warning: NOTICE: Tauri has support for scaffolding SvelteKit now, making this unnecessary. See their [quick start](https://tauri.app/v1/guides/getting-started/setup)
+
 # Crypton
 
 ## Developing
